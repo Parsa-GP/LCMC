@@ -6,7 +6,7 @@
 !emotes
 !emotes/**
 
-mods
+!mods
 !mods/*.jar
 
 resourcepacks
