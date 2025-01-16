@@ -1,0 +1,1615 @@
+{
+  "width": 10,
+  "height": 10,
+  "velocityRandomness": 0,
+  "caveDustEnabled": true,
+  "seaLevelCheck": true,
+  "superFlatStatus": false,
+  "upperLimit": 64.0,
+  "lowerLimit": -64.0,
+  "particleMultiplier": 1,
+  "listNumber": 0,
+  "particleMultiplierMultiplier": 10,
+  "list": [
+    {
+      "field_13353": "biomesoplenty",
+      "field_13355": "null"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "dolphin"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "deepslate_coal"
+    },
+    {
+      "field_13353": "twilightforest",
+      "field_13355": "boss_tear"
+    },
+    {
+      "field_13353": "twilightforest",
+      "field_13355": "extended_snow_warning"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "brown_string"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "coal_block"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "dirt_pebble"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "bedrock_pebble"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "falling_obsidian_tear"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "dark_oak_splinter"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "bright_glowstone"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "verdant_froglight"
+    },
+    {
+      "field_13353": "twilightforest",
+      "field_13355": "annihilate"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "dried_kelp"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "green_flame"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "pink_glazed_terracotta"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "warped_bark"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "blue_glazed_terracotta"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "cyan_string"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "birch_bark"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "copper_pebble_green"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "quarter_note"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "cobblestone_pebble1"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "cobblestone_pebble2"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "snowball"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "cobblestone_pebble3"
+    },
+    {
+      "field_13353": "twilightforest",
+      "field_13355": "ominous_flame"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "enchant"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "wax_on"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "campfire_signal_smoke"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "gravel_piece"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "birch_splinter"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "red_glazed_terracotta"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "cherry_splinter"
+    },
+    {
+      "field_13353": "lodestone",
+      "field_13355": "thin_extruding_spark"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "current_down"
+    },
+    {
+      "field_13353": "biomesoplenty",
+      "field_13355": "falling_blood"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "light_blue_glazed_terracotta"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "slimeball"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "landing_lava"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "red_sandstone"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "copper_pebble_orange_green"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "redstone_ore"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "clay_ball"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "end_stone_brick"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "mangrove_bark"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "purpur_piece"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "totem_of_undying"
+    },
+    {
+      "field_13353": "twilightforest",
+      "field_13355": "snow_guardian"
+    },
+    {
+      "field_13353": "milk",
+      "field_13355": "flowing_milk_dripstone_lib_particle_type_fall"
+    },
+    {
+      "field_13353": "biomesoplenty",
+      "field_13355": "jacaranda_leaves"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "nether_gold_ore"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "falling_nectar"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "deepslate_diamond_ore"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "saul"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "green_glazed_terracotta"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "black_string"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "poof"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "green_concrete"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "ambient_entity_effect"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "deepslate_gold_ore"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "bone_block"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "scrape"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "gold_ore"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "purple_concrete"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "birch_leaf"
+    },
+    {
+      "field_13353": "twilightforest",
+      "field_13355": "snow_warning"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "basalt"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "warped_splinter"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "coal_pebble"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "gray_string"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "angry_villager"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "cherry_leaf"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "splash"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "soul_fire_flame"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "witch"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "light_gray_glazed_terracotta"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "lime_glazed_terracotta"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "sponge_piece"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "spit"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "nautilus"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "brain_coral"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "command_block"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "squid_ink"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "orange_concrete"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "deepslate_pebble"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "oak_bark"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "pink_string"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "enchanted_hit"
+    },
+    {
+      "field_13353": "lodestone",
+      "field_13355": "terrain"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "end_rod"
+    },
+    {
+      "field_13353": "twilightforest",
+      "field_13355": "huge_smoke"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "book1"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "book2"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "smooth_basalt"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "book3"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "white_ash"
+    },
+    {
+      "field_13353": "twilightforest",
+      "field_13355": "ghast_trap"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "red_mushroom"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "light_blue_string"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "pumpkin"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "dripping_dripstone_water"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "shroomlight"
+    },
+    {
+      "field_13353": "twilightforest",
+      "field_13355": "ice_beam"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "raw_gold"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "diamond_pebble"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "firework"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "brown_mushroom"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "raw_copper"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "glow"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "amethyst_pebble"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "tuff_pebble"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "falling_dripstone_water"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "flame"
+    },
+    {
+      "field_13353": "potionvapes",
+      "field_13355": "vape_smoke"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "smooth_stone_pebble"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "magenta_concrete"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "item_snowball"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "black_terracotta"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "nautilus"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "brown_concrete"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "soul"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "spore_blossom_air"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "terracotta"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "green_terracotta"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "red_string"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "dripping_lava"
+    },
+    {
+      "field_13353": "twilightforest",
+      "field_13355": "particle_spawner_firefly"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "bubble_column_up"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "beamed_eighth_note"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "lime_concrete"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "block_marker"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "coarse_dirt_pebble"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "happy_villager"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "magenta_glazed_terracotta"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "hay_bale"
+    },
+    {
+      "field_13353": "create",
+      "field_13355": "steam_jet"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "dark_oak_bark"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "blackstone_pebble"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "sculk_block"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "emerald_pebble"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "mangrove_leaf"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "damage_indicator"
+    },
+    {
+      "field_13353": "twilightforest",
+      "field_13355": "snow"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "calcite_pebble"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "brown_terracotta"
+    },
+    {
+      "field_13353": "biomesoplenty",
+      "field_13355": "landing_blood"
+    },
+    {
+      "field_13353": "lodestone",
+      "field_13355": "wisp"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "purple_string"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "light_gray_terracotta"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "tnt1"
+    },
+    {
+      "field_13353": "twilightforest",
+      "field_13355": "protection"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "tnt2"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "soul"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "spruce_splinter"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "block"
+    },
+    {
+      "field_13353": "create",
+      "field_13355": "basin_fluid"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "purple_terracotta"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "large_smoke"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "lime_string"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "sand_piece"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "cherry_bark"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "white_glazed_terracotta"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "item_slime"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "ice_cube"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "blue_terracotta"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "orange_terracotta"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "white_string"
+    },
+    {
+      "field_13353": "twilightforest",
+      "field_13355": "wandering_firefly"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "dripstone_pebble"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "sculk_charge"
+    },
+    {
+      "field_13353": "create",
+      "field_13355": "air_flow"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "mangrove_splinter"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "enchanted_hit"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "raw_iron_pebble"
+    },
+    {
+      "field_13353": "lodestone",
+      "field_13355": "spark"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "polished_granite_pebble"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "bookshelf"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "sweep_attack"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "string"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "angry"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "dark_prismarine_piece"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "polished_andesite_pebble"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "andesite_pebble"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "mud_brick"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "light_blue_concrete"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "portal"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "lapis_ore"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "small_flame"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "glint"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "iron_piece"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "crit"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "azalea_leaf"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "prismarine_piece"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "glow_squid_ink"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "red_terracotta"
+    },
+    {
+      "field_13353": "create",
+      "field_13355": "soul_base"
+    },
+    {
+      "field_13353": "biomesoplenty",
+      "field_13355": "binary"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "snowflake"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "flash"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "copper_block"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "magma_block"
+    },
+    {
+      "field_13353": "lodestone",
+      "field_13355": "sparkle"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "granite_pebble"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "dark_oak_leaf"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "diamond_ore"
+    },
+    {
+      "field_13353": "create",
+      "field_13355": "fluid_drip"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "warped_spore"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "deepslate_emerald_ore"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "horn_coral"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "bamboo_planks"
+    },
+    {
+      "field_13353": "cavedust",
+      "field_13355": "cave_dust"
+    },
+    {
+      "field_13353": "biomesoplenty",
+      "field_13355": "dripping_blood"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "landing_obsidian_tear"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "crimson_spore"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "oak_splinter"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "big_bone_block"
+    },
+    {
+      "field_13353": "create",
+      "field_13355": "soul"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "vibration"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "falling_dripstone_lava"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "magenta_terracotta"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "yellow_terracotta"
+    },
+    {
+      "field_13353": "milk",
+      "field_13355": "flowing_milk_dripstone_lib_particle_type_splash"
+    },
+    {
+      "field_13353": "twilightforest",
+      "field_13355": "large_flame"
+    },
+    {
+      "field_13353": "twilightforest",
+      "field_13355": "leaf_rune"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "heart"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "bubble_pop"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "lava"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "yellow_glazed_terracotta"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "cyan_glazed_terracotta"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "brick"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "fire_coral"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "sculk_charge_pop"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "netherite_pebble"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "warped_piece"
+    },
+    {
+      "field_13353": "lodestone",
+      "field_13355": "twinkle"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "yellow_concrete"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "dust"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "deepslate_lapis_ore"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "copper_ore"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "dead_coral"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "sculk_soul"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "falling_spore_blossom"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "cobweb"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "mycelium"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "jukebox"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "ash"
+    },
+    {
+      "field_13353": "create",
+      "field_13355": "fluid_particle"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "black_glazed_terracotta"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "falling_dust"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "lava"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "bubble"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "sneeze"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "dripping_water"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "sea_lantern"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "acacia_bark"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "mycelium"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "underwater"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "netherrack_pebble"
+    },
+    {
+      "field_13353": "lodestone",
+      "field_13355": "extruding_spark"
+    },
+    {
+      "field_13353": "twilightforest",
+      "field_13355": "sorting_particle"
+    },
+    {
+      "field_13353": "twilightforest",
+      "field_13355": "cloud_puff"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "instant_effect"
+    },
+    {
+      "field_13353": "biomesoplenty",
+      "field_13355": "orange_maple_leaves"
+    },
+    {
+      "field_13353": "create",
+      "field_13355": "air"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "cherry_leaves"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "elder_guardian"
+    },
+    {
+      "field_13353": "create",
+      "field_13355": "soul_expanding_perimeter"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "crimson_bark"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "glass_shard"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "mud_piece"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "acacia_splinter"
+    },
+    {
+      "field_13353": "biomesoplenty",
+      "field_13355": "steam"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "dark_glowstone"
+    },
+    {
+      "field_13353": "create",
+      "field_13355": "rotation_indicator"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "brown_glazed_terracotta"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "shriek"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "falling_lava"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "packed_mud"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "emerald_ore"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "light_blue_terracotta"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "iron_pebble"
+    },
+    {
+      "field_13353": "lodestone",
+      "field_13355": "star"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "froglight_middle"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "light_gray_string"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "yellow_string"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "bamboo_block"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "white_concrete"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "falling_honey"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "grass_piece"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "stone_pebble"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "copper_pebble_orange"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "dripping_honey"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "green_string"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "ochre_froglight"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "end_stone_piece"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "heart"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "composter"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "red_nether_brick"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "budding_amethyst"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "orange_glazed_terracotta"
+    },
+    {
+      "field_13353": "milk",
+      "field_13355": "still_milk_dripstone_lib_particle_type_hang"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "pink_concrete"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "blue_concrete"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "dripping_dripstone_lava"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "tube_coral"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "rain"
+    },
+    {
+      "field_13353": "create",
+      "field_13355": "soul_perimeter"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "gray_glazed_terracotta"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "blue_string"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "note"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "cyan_concrete"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "half_note"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "red_concrete"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "pink_terracotta"
+    },
+    {
+      "field_13353": "lodestone",
+      "field_13355": "smoke"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "sandstone_pebble"
+    },
+    {
+      "field_13353": "twilightforest",
+      "field_13355": "firefly"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "light_gray_concrete"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "weathered_copper"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "wax_off"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "cyan_terracotta"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "jungle_leaf"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "spruce_leaf"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "nether_brick"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "explosion"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "jungle_splinter"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "acacia_leaf"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "electric_spark"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "magenta_string"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "cobbled_deepslate"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "polished_diorite_pebble"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "dust_color_transition"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "debris_pebble"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "nether_quartz_ore"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "reverse_portal"
+    },
+    {
+      "field_13353": "milk",
+      "field_13355": "still_milk_dripstone_lib_particle_type_splash"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "deepslate_redstone_ore"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "polished_deepslate"
+    },
+    {
+      "field_13353": "biomesoplenty",
+      "field_13355": "end_spore"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "landing_honey"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "spawner"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "note"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "pearlescent_froglight"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "explosion_emitter"
+    },
+    {
+      "field_13353": "automobility",
+      "field_13355": "drift_smoke"
+    },
+    {
+      "field_13353": "milk",
+      "field_13355": "flowing_milk_dripstone_lib_particle_type_hang"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "exposed_copper"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "redstone_pebble"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "entity_effect"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "honeycomb"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "item"
+    },
+    {
+      "field_13353": "twilightforest",
+      "field_13355": "fallen_leaf"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "white_terracotta"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "sonic_boom"
+    },
+    {
+      "field_13353": "milk",
+      "field_13355": "still_milk_dripstone_lib_particle_type_fall"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "oak_leaf"
+    },
+    {
+      "field_13353": "biomesoplenty",
+      "field_13355": "red_maple_leaves"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "red_sand_piece"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "deepslate_copper_ore"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "dragon_breath"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "egg_crack"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "gray_concrete"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "podzol"
+    },
+    {
+      "field_13353": "biomesoplenty",
+      "field_13355": "snowblossom_leaves"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "smoke"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "quartz_pebble"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "eighth_note"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "campfire_cosy_smoke"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "crimson_piece"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "fishing"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "gold_pebble"
+    },
+    {
+      "field_13353": "create",
+      "field_13355": "cube"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "deepslate_iron_ore"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "lapis_pebble"
+    },
+    {
+      "field_13353": "biomesoplenty",
+      "field_13355": "pus"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "falling_water"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "flame"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "mushroom_stem"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "crimson_splinter"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "whole_note"
+    },
+    {
+      "field_13353": "biomesoplenty",
+      "field_13355": "wisp_bubble"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "dripping_obsidian_tear"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "cloud"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "bubble_coral"
+    },
+    {
+      "field_13353": "biomesoplenty",
+      "field_13355": "yellow_maple_leaves"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "lime_terracotta"
+    },
+    {
+      "field_13353": "lodestone",
+      "field_13355": "item"
+    },
+    {
+      "field_13353": "biomesoplenty",
+      "field_13355": "glowworm"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "spruce_bark"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "jungle_bark"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "diorite_pebble"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "effect"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "gray_terracotta"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "orange_string"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "purple_glazed_terracotta"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "spore_blossom"
+    },
+    {
+      "field_13353": "smoothparticles",
+      "field_13355": "black_concrete"
+    }
+  ],
+  "newId": {
+    "field_13353": "cavedust",
+    "field_13355": "cave_dust"
+  }
+}

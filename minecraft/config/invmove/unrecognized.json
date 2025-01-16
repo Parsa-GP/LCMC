@@ -1,0 +1,30 @@
+{
+  "allowMovement": {
+    "net.minecraft.class_434": true,
+    "me.khajiitos.potionvapes.common.client.screen.VapeJuicerScreen": true,
+    "io.github.mortuusars.exposure.gui.screen.camera.ViewfinderControlsScreen": true,
+    "io.github.mortuusars.exposure.gui.screen.camera.CameraAttachmentsScreen": true,
+    "io.github.mortuusars.exposure.gui.screen.camera.CameraAttachmentsScreen$2": true,
+    "semmiedev.disc_jockey.gui.screen.DiscJockeyScreen": true,
+    "xerca.xercamusic.client.GuiInstrument": true,
+    "xerca.xercamusic.client.GuiMusicSheet": true,
+    "com.minenash.seamless_loading_screen.FadeScreen": true,
+    "io.github.mortuusars.exposure.gui.screen.LightroomScreen": true,
+    "net.minecraft.class_433": true,
+    "vazkii.patchouli.client.book.gui.GuiBookLanding": true,
+    "vazkii.patchouli.client.book.gui.GuiBookEntry": true,
+    "io.github.mortuusars.exposure.gui.screen.FilmFrameInspectScreen": true,
+    "mezz.jei.gui.recipes.RecipesGui": true
+  },
+  "hideBackground": {
+    "me.khajiitos.potionvapes.common.client.screen.VapeJuicerScreen": true,
+    "io.github.mortuusars.exposure.gui.screen.camera.CameraAttachmentsScreen": true,
+    "io.github.mortuusars.exposure.gui.screen.camera.CameraAttachmentsScreen$2": true,
+    "io.github.mortuusars.exposure.gui.screen.LightroomScreen": true,
+    "vazkii.patchouli.client.book.gui.GuiBookLanding": true,
+    "vazkii.patchouli.client.book.gui.GuiBookCategory": true,
+    "vazkii.patchouli.client.book.gui.GuiBookEntry": true,
+    "io.github.mortuusars.exposure.gui.screen.FilmFrameInspectScreen": true,
+    "mezz.jei.gui.recipes.RecipesGui": true
+  }
+}
