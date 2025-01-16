@@ -1,0 +1,17 @@
+minecraft/.bobby
+minecraft/.cache
+minecraft/.fabric
+minecraft/config
+minecraft/coremods
+minecraft/crash-reports
+minecraft/data
+minecraft/defaultconfigs
+minecraft/irisUpdateInfo.json
+minecraft/logs
+minecraft/moddata
+minecraft/patchouli_books
+minecraft/patchouli_data.json
+minecraft/screenshots
+minecraft/server-resource-packs
+minecraft/texturepacks
+minecraft/usercache.json
