@@ -14,7 +14,8 @@
     "vazkii.patchouli.client.book.gui.GuiBookLanding": true,
     "vazkii.patchouli.client.book.gui.GuiBookEntry": true,
     "io.github.mortuusars.exposure.gui.screen.FilmFrameInspectScreen": true,
-    "mezz.jei.gui.recipes.RecipesGui": true
+    "mezz.jei.gui.recipes.RecipesGui": true,
+    "com.cstav.evenmoreinstruments.client.gui.instrument.noteblockinstrument.NoteBlockInstrumentScreen": true
   },
   "hideBackground": {
     "me.khajiitos.potionvapes.common.client.screen.VapeJuicerScreen": true,

@@ -2,7 +2,7 @@
 	serverIp: "world-host.jemnetworks.com",
 	onlineStatusLocation: "right",
 	enableFriends: true,
-	enableReconnectionToasts: true,
+	enableReconnectionToasts: false,
 	UPnP: false,
 	useShortIp: true,
 	showOutdatedWorldHost: true,

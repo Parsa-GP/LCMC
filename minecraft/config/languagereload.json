@@ -3,7 +3,9 @@
   "multilingualItemSearch": true,
   "removableDefaultLanguage": false,
   "fallbacks": [],
-  "previousFallbacks": [],
+  "previousFallbacks": [
+    "en_us"
+  ],
   "language": "en_us",
-  "previousLanguage": ""
+  "previousLanguage": "ja_jp"
 }

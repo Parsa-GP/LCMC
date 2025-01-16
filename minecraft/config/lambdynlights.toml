@@ -1,0 +1,47 @@
+
+[light_sources]
+	entities = true
+	self = true
+	block_entities = true
+	water_sensitive_check = true
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				player = true
+				bat = true
+				item = true
+				creeper = true
+				armor_stand = true
+				salmon = true
+				cod = true
+				glow_squid = true
+				squid = true
+				zombie = true
+				spider = true
+				skeleton = true
+				chicken = true
+				witch = true
+				pillager = true
+				vindicator = true
+				sheep = true
+				chest_minecart = true
+				fox = true
+				pig = true
+				enderman = true
+				villager = true
+
+			[light_sources.settings.entities.exposure]
+				photograph_frame = true
+
+			[light_sources.settings.entities.automobility]
+				automobile = true
+
+			[light_sources.settings.entities.handcrafted]
+				fancy_painting = true
+
+			[light_sources.settings.entities.vinery]
+				dark_cherry_chest_boat = true
+
