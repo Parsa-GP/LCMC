@@ -32,6 +32,35 @@
 				pig = true
 				enderman = true
 				villager = true
+				parrot = true
+				axolotl = true
+				cow = true
+				boat = true
+				lightning_bolt = true
+				experience_orb = true
+				strider = true
+				ender_dragon = true
+				wither = true
+				firework_rocket = true
+				tnt_minecart = true
+				tropical_fish = true
+				bee = true
+				iron_golem = true
+				cat = true
+				cave_spider = true
+				arrow = true
+				blaze = true
+				magma_cube = true
+				zombified_piglin = true
+				vex = true
+				slime = true
+				piglin = true
+				phantom = true
+				small_fireball = true
+				ghast = true
+				dragon_fireball = true
+				area_effect_cloud = true
+				shulker = true
 
 			[light_sources.settings.entities.exposure]
 				photograph_frame = true
@@ -44,4 +73,28 @@
 
 			[light_sources.settings.entities.vinery]
 				dark_cherry_chest_boat = true
+
+			[light_sources.settings.entities.gun]
+				flintlock_pistol_projectile = true
+
+			[light_sources.settings.entities.citymod]
+				rifle = true
+
+			[light_sources.settings.entities.biomesoplenty]
+				boat = true
+
+			[light_sources.settings.entities.doapi]
+				chair = true
+
+			[light_sources.settings.entities.brewery]
+				beer_elemental = true
+
+			[light_sources.settings.entities.sleep_tight]
+				bed_entity = true
+
+			[light_sources.settings.entities.sit]
+				entity_sit = true
+
+			[light_sources.settings.entities.dice]
+				dice_entity = true
 

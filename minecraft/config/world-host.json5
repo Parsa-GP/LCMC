@@ -9,6 +9,6 @@
 	shareButton: true,
 	allowFriendRequests: true,
 	announceFriendsOnline: true,
-	whitelistJoins: false,
+	whitelistJoins: true,
 	requiredSecurityLevel: "secure"
 }

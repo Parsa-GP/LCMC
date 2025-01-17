@@ -6,5 +6,6 @@
   "waila:extra": true,
   "waila:fabric": true,
   "waystones:wthit": true,
-  "twilightforest:wthitplugin": true
+  "twilightforest:wthitplugin": true,
+  "biomeswevegone:plugin": true
 }

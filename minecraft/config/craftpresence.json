@@ -109,7 +109,7 @@
     "stripTranslationColors": false,
     "stripTranslationFormatting": false,
     "stripExtraGuiElements": false,
-    "configKeyCode": 96
+    "configKeyCode": -1
   },
   "displaySettings": {
     "presenceData": {
@@ -135,7 +135,9 @@
     },
     "dynamicIcons": {
       "default": "https://via.placeholder.com/256.png",
-      "ParsaGP": "https://mc-heads.net/avatar/70110b12696b46c1953369a8afb6df33"
+      "ParsaGP": "https://mc-heads.net/avatar/70110b12696b46c1953369a8afb6df33",
+      "missions-dietary-presidents.world-host.jemnetworks.com": "https://api.mcsrvstat.us/icon/missions-dietary-presidents.world-host.jemnetworks.com",
+      "9craft.ir": "https://api.mcsrvstat.us/icon/9craft.ir"
     },
     "dynamicVariables": {
       "default": "Example Text",
