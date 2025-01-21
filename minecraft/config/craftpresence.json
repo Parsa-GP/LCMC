@@ -139,7 +139,8 @@
       "missions-dietary-presidents.world-host.jemnetworks.com": "https://api.mcsrvstat.us/icon/missions-dietary-presidents.world-host.jemnetworks.com",
       "9craft.ir": "https://api.mcsrvstat.us/icon/9craft.ir",
       "lcmcdemo.falixsrv.me": "https://api.mcsrvstat.us/icon/lcmcdemo.falixsrv.me",
-      "eu5-free.falixserver.net": "https://api.mcsrvstat.us/icon/eu5-free.falixserver.net"
+      "eu5-free.falixserver.net": "https://api.mcsrvstat.us/icon/eu5-free.falixserver.net",
+      "localhost": "https://api.mcsrvstat.us/icon/localhost"
     },
     "dynamicVariables": {
       "default": "Example Text",
