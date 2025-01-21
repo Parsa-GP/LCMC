@@ -11,4 +11,43 @@
 
 			[light_sources.settings.entities.minecraft]
 				player = true
+				item = true
+				rabbit = true
+				sheep = true
+				chest_minecart = true
+				frog = true
+				chicken = true
+				zombie = true
+				skeleton = true
+				creeper = true
+				enderman = true
+				bat = true
+				zombie_villager = true
+				glow_squid = true
+				tropical_fish = true
+				spider = true
+				squid = true
+				witch = true
+				cow = true
+				pig = true
+				axolotl = true
+				arrow = true
+				husk = true
+				dolphin = true
+				pufferfish = true
+				ocelot = true
+				boat = true
+				slime = true
+				villager = true
+				cat = true
+				camel = true
+				iron_golem = true
+				pillager = true
+				armor_stand = true
+				salmon = true
+				experience_orb = true
+				drowned = true
+
+			[light_sources.settings.entities.gun]
+				flintlock_pistol_projectile = true
 
