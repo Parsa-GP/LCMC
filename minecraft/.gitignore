@@ -20,3 +20,5 @@ shaderpacks/**
 !options.txt
 
 !.gitignore
+!mods/srv
+!mods/srv/**
