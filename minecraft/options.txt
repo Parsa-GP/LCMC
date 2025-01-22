@@ -24,7 +24,7 @@ darkMojangStudiosBackground:true
 hideLightningFlashes:false
 mouseSensitivity:0.69
 fov:0.725
-screenEffectScale:0.30985915492957744
+screenEffectScale:0.7
 fovEffectScale:1.0
 darknessEffectScale:1.0
 glintSpeed:0.5
@@ -213,15 +213,15 @@ key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
 key_iris.keybind.wireframe:key.keyboard.unknown
 key_key.craftpresence.config_keycode.name:key.keyboard.unknown
-soundCategory_master:0.7542348229955494
+soundCategory_master:0.8
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
-soundCategory_hostile:0.9693460911884189
+soundCategory_hostile:0.9696969696969696
 soundCategory_neutral:1.0
 soundCategory_player:1.0
-soundCategory_ambient:0.6254201637349721
+soundCategory_ambient:0.7
 soundCategory_voice:1.0
 modelPart_cape:true
 modelPart_jacket:true
