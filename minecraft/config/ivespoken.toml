@@ -1,8 +1,0 @@
-enabled = true
-# The time in milliseconds that the message will be displayed on the screen.
-# Max value: 60000 milliseconds (1 minute)
-lastingTime = 5000
-# The maximum width of the message on the screen in pixel.
-# Min value: 100 pixels
-# Max value: 1000 pixels
-maxWidth = 180

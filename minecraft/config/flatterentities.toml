@@ -1,5 +1,0 @@
-[client]
-entityBlacklist = []
-entityDimensionWhitelist = []
-dimensionBlacklist = []
-invertDimensionBlacklist = false

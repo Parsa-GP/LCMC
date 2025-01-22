@@ -1,16 +1,7 @@
 *
 
-config/
-config/*
+!config
 config/**
-config/**/**
-config/*/*
-config/**/*
-config/*/**
-config/*.*
-config/*/*.*
-config/**/*.*
-!config/.gitignore
 
 !emotes
 !emotes/**
