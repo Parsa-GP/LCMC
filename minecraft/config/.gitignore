@@ -1,2 +1,4 @@
 *
 !.gitignore
+!smoothswapping.json
+!health_indicators_config.json
