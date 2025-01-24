@@ -9,7 +9,7 @@ config/**
 !mods
 !mods/*.jar
 !mods/srv
-!mods/srv/**
+!mods/srv/*.jar
 
 resourcepacks
 resourcepacks/*.zip
