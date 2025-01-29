@@ -43,7 +43,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"false"
-resourcePacks:["vanilla","fabric","minecraft:supporteatinganimation","Moonlight Mods Dynamic Assets","file/HatsuneMikuCreatedMinecraft.zip"]
+resourcePacks:["vanilla","fabric","minecraft:supporteatinganimation","Moonlight Mods Dynamic Assets","file/HatsuneMikuCreatedMinecraft.zip","file/better_flame_particles-v2.2-mc1.14x-1.21x-resourcepack.zip","autoslabs:distinct_slabs"]
 incompatibleResourcePacks:["file/HatsuneMikuCreatedMinecraft.zip"]
 lastServer:
 lang:en_us
@@ -171,7 +171,7 @@ key_key.jade.toggle_liquid:key.keyboard.unknown
 key_key.jade.show_recipes:key.keyboard.unknown
 key_key.jade.show_uses:key.keyboard.unknown
 key_key.jade.narrate:key.keyboard.unknown
-key_key.jade.show_details_alternative:key.keyboard.unknown
+key_key.jade.show_details_alternative:key.keyboard.left.shift
 key_key.jei.toggleOverlay:key.keyboard.o
 key_key.jei.focusSearch:key.keyboard.f
 key_key.jei.previousPage:key.keyboard.unknown
