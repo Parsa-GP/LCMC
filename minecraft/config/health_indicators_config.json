@@ -15,7 +15,7 @@
 	"render_number_display_shadow": false,
 	"render_number_display_background_color": true,
 	"number_display_background_color": -16777216,
-	"display_offset": 0.0,
+	"display_offset": 1.0,
 	"offset_step_size": 1.0,
 	"force_higher_offset_for_players": false,
 	"message_type": "ACTIONBAR",
